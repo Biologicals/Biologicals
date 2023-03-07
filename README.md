@@ -1,9 +1,8 @@
 # 👋 Hi, I’m @Biologicals 
-- 👀 I’m interested in ...biopharmaceutical industry, drug development, and etc. 
+- 👀 I’m interested in drug development, process dev., quality control, biopharmaceutical industry, business administration, and etc. 
 - ✨ Studied biochemical and structural biology. 
-- 🌱 I’m currently learning .../
-- 💞️ I’m looking to collaborate on .../
-- 📫 How to reach me .../
+- 🌱 I’m currently learning business administration/
+
 
 <!---
 Biologicals/Biologicals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
